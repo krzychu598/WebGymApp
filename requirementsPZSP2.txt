@@ -1,0 +1,32 @@
+Business requirements:
+1. Allowing users to optimize their training plan.
+2. Provide data for customers to monitor their performance and see their progress.
+3. The  app should be easy to use and engaging.
+4. Nice looking  visual layer.
+5. Suggested trainings need to fit each user's skills.
+
+User requirements
+1. The user can see their workout progress.
+2. The user can input their exercises in the app.
+3. The user is able to define their workout schedule. 
+4. The app suggests optimal workout schedule.
+5. The user is able to create workout plan based on muscle parts they want to improve.
+6. The user is able to see summary of their previous workouts.
+7. The user should be aided in achieving their specific goals.
+
+System requirements
+1. The personal data is stored safely and securely in the database.
+2. The app should display graphs about weight, feelings after the workout, frequency of training
+3.  The app shows how the exercise should be done.
+4. The app shows schedule interface.
+5. The app makes sure the payments are made correctly.
+6. The main algorithm should suggest exercises based on the user data.
+7. The app should have interface for inputting data after workout.
+8. The app provides different schedules and ability to change them.
+
+Functional Requirements
+...
+Non-Functional Requirements
+Training schedule generates in less than 3s.
+There is no access to sensitive data of other users.
+Basic cryptography is used in database.
